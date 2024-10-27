@@ -1,4 +1,8 @@
-## Hi there 👋
+![Bannar](baner.jpg)
+# Hello, I am Khan Jahan  👋
+🏠 Living Khulna, Bangladesh.
+
+
 
 <!--
 **Khan-jahan/Khan-Jahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
