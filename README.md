@@ -1,4 +1,4 @@
-![Banner](immage/Banner.png)
+![Banner](./immage/Banner.png)
 <h1> Hello, I'm Khan Jahan 👋</h1>
 🏠 Living Khulna, Bangladesh.
 
